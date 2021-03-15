@@ -1,0 +1,36 @@
+# This is a sample document for the `Book` highlighter.
+# The following are metadata lines (`KEY: Value`).
+# Any keys/values are allowed.
+
+TITLE:     The Dunwich Horror
+AUTHOR:    HP Lovecraft
+PUBLISHED: 1929
+PUBLISHER: Some Press Somewhere
+ISBN:      978-0000000000
+LANGUAGE:  en-US
+GENRE:     Horror
+COVER:     cover.png
+COPYRIGHT: HP Lovecraft, 1929
+STARTED:   2021-01-15
+DEADLINE:  2021-08-01
+TARGET:    99300
+
+# Examples of metadata tags in general use:
+
+FRONTMATTER:
+Introduction
+
+CHAPTERS:
+Chapter One
+Chapter Two
+Chapter Three
+Chapter Four
+Chapter Five
+Chapter Six
+Chapter Seven
+Chapter Eight
+Chapter Nine
+Chapter Ten
+
+BACKMATTER:
+Other Books
