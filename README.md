@@ -1,6 +1,7 @@
 # book-textmate
 
 Prose syntax and theme bundle for TextMate 2 covering metadata, dialogue, and comments.
+Includes both a *Book Light* and a *Book Dark* theme.
 
 ## Functionality
 
@@ -18,7 +19,13 @@ Prose syntax and theme bundle for TextMate 2 covering metadata, dialogue, and co
 
 See the [example.book](./example.book) file for this sample book definition.
 
-![Example Book](./example-book.png)
+### Light theme
+
+![Example Book - Light](./example-book-light.png)
+
+### Dark theme
+
+![Example Book - Dark](./example-book-dark.png)
 
 ---
 
@@ -26,7 +33,13 @@ See the [example.book](./example.book) file for this sample book definition.
 
 See the [example.chapter](./example.chapter) file for this sample chapter.
 
-![Example Chapter](./example-chapter.png)
+### Light theme
+
+![Example Chapter - Light](./example-chapter-light.png)
+
+### Dark theme
+
+![Example Chapter - Dark](./example-chapter-dark.png)
 
 ---
 
@@ -38,4 +51,4 @@ See the [example.chapter](./example.chapter) file for this sample chapter.
 ## Making changes
 
 - Use the `Bundle`, `Edit Bundles` option to make changes
-- Option-click the bundle name `Export` when you've done
+- Option-click the bundle name and `Export` when you've done
